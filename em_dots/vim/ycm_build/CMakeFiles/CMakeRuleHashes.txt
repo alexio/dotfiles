@@ -1,3 +1,0 @@
-# Hashes of file build rules.
-2b2b4fab0fc9d0da9d5c5ec358b894a4 ycm/CMakeFiles/ycm_support_libs
-c670d5d4375a13f70c6df95e08ba75c0 ycm/tests/CMakeFiles/copy_testdata
